@@ -9,9 +9,6 @@ module.exports = {
           light: "#232F3E",
           DEFAULT: "#131921",
         },
-        screens: {
-          "3xl": "2000",
-        },
       },
     },
   },
